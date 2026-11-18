@@ -1,0 +1,4 @@
+Faker==40.37.0
+psutil==7.2.2
+python-dotenv==1.2.3
+snowpipe-streaming==1.8.0
